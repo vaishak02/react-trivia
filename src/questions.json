@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "question": "Which element has the atomic number 79?",
+      "choices": ["Gold", "Platinum", "Silver", "Copper"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "What is the largest planet in the solar system by volume?",
+      "choices": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "Who wrote the epic poem 'Paradise Lost'?",
+      "choices": ["Geoffrey Chaucer", "John Milton", "Homer", "Dante Alighieri"],
+      "correctAnsIdx": 1
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "choices": ["Pb", "Ld", "Pl", "L"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "choices": ["Nile", "Amazon", "Mississippi", "Yangtze"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "choices": ["Marie Curie", "Rosa Parks", "Indira Gandhi", "Margaret Thatcher"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "What is the smallest planet in the solar system?",
+      "choices": ["Mercury", "Venus", "Mars", "Pluto"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "Which African country is known as the 'Rainbow Nation'?",
+      "choices": ["Egypt", "Nigeria", "South Africa", "Kenya"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "In which year did the French Revolution begin?",
+      "choices": ["1776", "1789", "1799", "1805"],
+      "correctAnsIdx": 1
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "choices": ["Sa", "So", "Sd", "Na"],
+      "correctAnsIdx": 3
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "choices": ["George Orwell", "Harper Lee", "J.K. Rowling", "Jane Austen"],
+      "correctAnsIdx": 1
+    },
+    {
+      "question": "Which gas is responsible for the greenhouse effect on Earth?",
+      "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+      "correctAnsIdx": 1
+    },
+    {
+      "question": "What is the largest organ in the human body by weight?",
+      "choices": ["Liver", "Brain", "Skin", "Heart"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "Who wrote the philosophical work 'Critique of Pure Reason'?",
+      "choices": ["Sigmund Freud", "Jean-Jacques Rousseau", "Immanuel Kant", "Friedrich Nietzsche"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "What is the chemical symbol for uranium?",
+      "choices": ["Ur", "Un", "U", "Us"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "What is the deepest point in the world's oceans?",
+      "choices": ["Mariana Trench", "Puerto Rico Trench", "Sunda Trench", "Java Trench"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "Which composer is known for his 'Moonlight Sonata'?",
+      "choices": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Pyotr Ilyich Tchaikovsky"],
+      "correctAnsIdx": 0
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "choices": ["Po", "K", "Ka", "Ke"],
+      "correctAnsIdx": 1
+    },
+    {
+      "question": "In which country is the ancient city of Petra located?",
+      "choices": ["Greece", "Egypt", "Jordan", "Turkey"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "Who was the first woman to fly solo nonstop across the Atlantic Ocean?",
+      "choices": ["Amelia Earhart", "Beryl Markham", "Valentina Tereshkova", "Sally Ride"],
+      "correctAnsIdx": 1
+    },
+    {
+      "question": "What is the chemical symbol for tin?",
+      "choices": ["Tn", "Ti", "Sn", "St"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "Which famous physicist formulated the theory of relativity?",
+      "choices": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Galileo Galilei"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "choices": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnsIdx": 3
+    },
+    {
+      "question": "In which country is the Great Wall of China located?",
+      "choices": ["Japan", "India", "China", "South Korea"],
+      "correctAnsIdx": 2
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "choices": ["Ag", "Si", "Au", "Sr"],
+      "correctAnsIdx": 0
+    }
+  ]
+}
