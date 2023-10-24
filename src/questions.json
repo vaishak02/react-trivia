@@ -71,58 +71,8 @@
       "correctAnsIdx": 2
     },
     {
-      "question": "What is the chemical symbol for uranium?",
-      "choices": ["Ur", "Un", "U", "Us"],
-      "correctAnsIdx": 2
-    },
-    {
-      "question": "What is the deepest point in the world's oceans?",
-      "choices": ["Mariana Trench", "Puerto Rico Trench", "Sunda Trench", "Java Trench"],
-      "correctAnsIdx": 0
-    },
-    {
       "question": "Which composer is known for his 'Moonlight Sonata'?",
       "choices": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Pyotr Ilyich Tchaikovsky"],
-      "correctAnsIdx": 0
-    },
-    {
-      "question": "What is the chemical symbol for potassium?",
-      "choices": ["Po", "K", "Ka", "Ke"],
-      "correctAnsIdx": 1
-    },
-    {
-      "question": "In which country is the ancient city of Petra located?",
-      "choices": ["Greece", "Egypt", "Jordan", "Turkey"],
-      "correctAnsIdx": 2
-    },
-    {
-      "question": "Who was the first woman to fly solo nonstop across the Atlantic Ocean?",
-      "choices": ["Amelia Earhart", "Beryl Markham", "Valentina Tereshkova", "Sally Ride"],
-      "correctAnsIdx": 1
-    },
-    {
-      "question": "What is the chemical symbol for tin?",
-      "choices": ["Tn", "Ti", "Sn", "St"],
-      "correctAnsIdx": 2
-    },
-    {
-      "question": "Which famous physicist formulated the theory of relativity?",
-      "choices": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Galileo Galilei"],
-      "correctAnsIdx": 2
-    },
-    {
-      "question": "What is the largest ocean on Earth?",
-      "choices": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"],
-      "correctAnsIdx": 3
-    },
-    {
-      "question": "In which country is the Great Wall of China located?",
-      "choices": ["Japan", "India", "China", "South Korea"],
-      "correctAnsIdx": 2
-    },
-    {
-      "question": "What is the chemical symbol for silver?",
-      "choices": ["Ag", "Si", "Au", "Sr"],
       "correctAnsIdx": 0
     }
   ]
